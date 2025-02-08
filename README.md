@@ -53,7 +53,7 @@ make
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/[your-username]/push_swap.git
+git clone https://github.com/fsantos23/push_swap.git
 cd push_swap
 make
 ```
